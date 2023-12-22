@@ -1,5 +1,5 @@
-# BISI-CST2101-F23-Project
-## This project has been completed individually by Mahum Khokhar, Student ID 41134811 for the BISI-CST2102 Final Project
+
+## This project has been completed individually by Mahum Khokhar
 This repo includes the Jupyter Notebook and the dataset required to run the analysis.
 
 # About the Project
@@ -10,7 +10,6 @@ In this project, we aim to analyze diabetes data and address some important busi
 
 This project is focused on Exploratory Data Analysis and Model Training using Python.
 A notebook is shared for the analysis.
-Many parts of the solution notebook are omitted and replaced with questions. You are expected to fill in the gaps as per the instructions/questions.
 ## Problem Statement:
 
 Diabetes is one of the most frequent diseases worldwide and the number of diabetic patients are growing over the years. The main cause of diabetes remains unknown, yet scientists believe that both genetic factors and environmental lifestyle play a major role in diabetes.
